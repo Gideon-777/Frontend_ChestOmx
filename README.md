@@ -1,7 +1,3 @@
-Here's a well-structured and visually appealing **README** for your **ReactJS frontend** of the **3D Medical Image Analysis App**.
-
----
-
 <h1 align="center">
   🏥 3D Medical Image Analysis - Frontend 🏥
 </h1>
