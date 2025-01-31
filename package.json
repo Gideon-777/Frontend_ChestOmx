@@ -1,0 +1,63 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@kitware/vtk.js": "^22.5.4",
+    "@material-ui/core": "^4.9.11",
+    "@material-ui/icons": "^4.9.1",
+    "@material-ui/styles": "^4.9.10",
+    "@mui/icons-material": "^5.2.5",
+    "@mui/material": "^5.2.7",
+    "axios": "^0.19.2",
+    "firebase": "^8.3.1",
+    "jimp": "^0.16.0",
+    "lodash": "^4.17.15",
+    "material-table": "^1.57.2",
+    "material-ui-color": "^1.2.0",
+    "material-ui-color-picker": "^3.5.1",
+    "material-ui-dropzone": "^3.5.0",
+    "material-ui-icons": "^1.0.0-beta.36",
+    "pngjs": "^6.0.0",
+    "react": "^16.12.0",
+    "react-csv": "^2.2.2",
+    "react-dom": "^16.12.0",
+    "react-dropzone": "^14.2.2",
+    "react-fileupload-progress": "^0.5.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-linkedin-login-oauth2": "^2.0.0",
+    "react-phone-input-2": "^2.15.0",
+    "react-router-dom": "^5.1.2",
+    "react-script-tag": "^1.1.2",
+    "react-scripts": "^3.2.0",
+    "react-split-pane": "^0.1.92",
+    "react-toastify": "^9.0.1",
+    "react-tsparticles": "^2.0.6",
+    "request": "^2.88.2",
+    "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
+    "tsparticles": "^2.0.6",
+    "uninstall": "0.0.0",
+    "yarn": "^1.22.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
